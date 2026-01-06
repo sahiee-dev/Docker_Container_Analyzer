@@ -10,7 +10,7 @@ A modern full-stack web app for automated vulnerability analysis of Docker image
 - **Live Progress Tracking:** Real-time feedback on scan and analysis steps.
 - **Comparison Dashboard:** Demo tabs highlight improvements between vulnerable and secure images.
 - **Professional UI:** Responsive React + Bootstrap frontend.
-- **DevSecOps Ready:** Easily extensible for CI/CD, dynamic scanning.
+- **DevSecOps Ready:** Easily extensible for CI/CD, dynamic scanning
 
 ## 🏗️ Architecture
 
